@@ -1,0 +1,8 @@
+with-expecter: true
+packages:
+  github.com/a-novel-kit/asql:
+    config:
+      all: True
+      recursive: true
+      outpkg: asqlmocks
+      dir: mocks
