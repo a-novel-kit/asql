@@ -3,7 +3,7 @@ module github.com/a-novel-kit/asql
 go 1.23.3
 
 require (
-	github.com/a-novel-kit/quicklog v0.0.0-20241118063401-732ac1be4980
+	github.com/a-novel-kit/quicklog v0.1.0
 	github.com/charmbracelet/lipgloss v1.0.0
 	github.com/go-playground/validator/v10 v10.23.0
 	github.com/samber/lo v1.47.0
