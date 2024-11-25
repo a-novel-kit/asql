@@ -7,7 +7,7 @@ require (
 	github.com/charmbracelet/lipgloss v1.0.0
 	github.com/go-playground/validator/v10 v10.23.0
 	github.com/samber/lo v1.47.0
-	github.com/stretchr/testify v1.9.0
+	github.com/stretchr/testify v1.10.0
 	github.com/uptrace/bun v1.2.6
 	github.com/uptrace/bun/dialect/pgdialect v1.2.6
 	github.com/uptrace/bun/driver/pgdriver v1.2.6
